@@ -10,13 +10,13 @@ from sklearn.model_selection import train_test_split
 import statsmodels.api as sm
 from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
 import matplotlib.pyplot as plt
-import pandas_profiling
+# import pandas_profiling
 import time
 import configparser as configParser
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import seaborn as sns
+# import seaborn as sns
 from sklearn.preprocessing import LabelEncoder
 
 
